@@ -25,13 +25,23 @@ I aim to build a strong foundation in software engineering, enhance my technical
 
 <!-- You can add more sections below -->
 
-## 🛠️ Tech Stack
-<!-- Add your tech stack badges here -->
-![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+---
+# 🛠️ Tech Stack
 
+## 🌐 Languages:
+![Java](https://img.shields.io/badge/JAVA-orange?style=for-the-badge&logo=java)
+![JavaScript](https://img.shields.io/badge/JAVASCRIPT-yellow?style=for-the-badge&logo=javascript)
+![Python](https://img.shields.io/badge/PYTHON-blue?style=for-the-badge&logo=python)
+
+## 🚀 Frameworks, Tools, and Platforms:
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![MySQL](https://img.shields.io/badge/MYSQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
+
+## 🔧 Other Tools and Skills:
+![Git](https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_CODE-007ACC?style=for-the-badge&logo=visual-studio-code)
+
+---
 ## 📊 GitHub Stats
 
 ... (Not added yet!)

@@ -26,8 +26,8 @@ Hi! I'm Akila Senanayake, a **Software Engineering undergraduate** at the Inform
 ... (Not added yet!)
 
 ## 🤝 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin)](YOUR_LINKEDIN_URL)
-
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/akila-senanayake-23aab42a7)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:akilasenanayake22@gmail.com)
 
 <!-- Footer with wave animation -->
 <div align="center">

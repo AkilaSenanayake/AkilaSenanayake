@@ -21,7 +21,7 @@ Hi! I'm Akila Senanayake, a **Software Engineering undergraduate** at the Inform
 
 # ✨ About Me
 
-Hi! I'm Akila Senanayake, a **Software Engineering undergraduate** at the Informatics Institute of Technology (IIT), affiliated with the **University of Westminster**. I am passionate about developing innovative solutions, mastering modern technologies, and contributing to impactful projects in the tech industry.
+Hi! I'm Akila Senanayake, a **Software Engineering undergraduate** at the Informatics Institute of Technology (IIT), affiliated with the **University of Westminster**.
 
 ## 💡 Key Strengths:
 
@@ -41,13 +41,6 @@ Hi! I'm Akila Senanayake, a **Software Engineering undergraduate** at the Inform
 ## 🤝 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin)](YOUR_LINKEDIN_URL)
 
-<!-- Footer with wave animation -->
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=footer&text=Thanks%20for%20Visiting!%20🚀&fontSize=30&fontAlignY=80&animation=twinkling"/>
-</div>
-
-## 🤝 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin)](YOUR_LINKEDIN_URL)
 
 <!-- Footer with wave animation -->
 <div align="center">

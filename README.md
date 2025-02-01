@@ -18,9 +18,6 @@ Hi! I'm Akila Senanayake, a **Software Engineering undergraduate** at the Inform
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hi!%20I%27m%20Akila%20Senanayake&fontSize=50&fontAlignY=35&animation=twinkling"/>
-</div>
 
 # ✨ About Me
 

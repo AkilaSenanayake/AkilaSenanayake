@@ -8,13 +8,16 @@
 
 Hi! I'm Akila Senanayake, a **Software Engineering undergraduate** at the Informatics Institute of Technology (IIT), affiliated with the **University of Westminster**.
 
+
 # 🌟 What Drives Me:
 
 I am driven by a desire to solve real-world problems through technology. My experiences in software engineering and social media consulting have provided me with the versatility to approach challenges creatively and effectively.
 
+
 # 📝 My Goals:
 
 I aim to build a strong foundation in software engineering, enhance my technical expertise, and contribute to impactful projects that make a difference in the tech industry.
+
 
 ## 💡 Key Strengths:
 

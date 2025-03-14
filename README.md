@@ -28,14 +28,18 @@ I am driven by a desire to solve real-world problems through technology. My expe
 ![Java](https://img.shields.io/badge/JAVA-orange?style=for-the-badge&logo=java)
 ![JavaScript](https://img.shields.io/badge/JAVASCRIPT-yellow?style=for-the-badge&logo=javascript)
 ![Python](https://img.shields.io/badge/PYTHON-blue?style=for-the-badge&logo=python)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 
 ## 🚀 Frameworks, Tools, and Platforms:
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/SPRINGBOOT-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![React](https://img.shields.io/badge/REACT-61DAFB?style=for-the-badge&logo=react&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MYSQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
 
 ## 🔧 Other Tools and Skills:
 ![Git](https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_CODE-007ACC?style=for-the-badge&logo=visual-studio-code)
+![Figma](https://img.shields.io/badge/FIGMA-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
 ---
 ## 📊 GitHub Stats

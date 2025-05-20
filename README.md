@@ -6,7 +6,7 @@
 
 # ✨ About Me
 
-Hi! I'm Akila Senanayake,  **Software Tester, and a Builder of Better User Experiences.**. Software engineering undergraduate at Informatics Institute of Technology, School of Computing, affiliated with the University of Westminster.
+Hi! I'm Akila Senanayake,  **Software Tester, and a Builder of Better User Experiences.** Software engineering undergraduate at Informatics Institute of Technology, School of Computing, affiliated with the University of Westminster.
 
 
 # 📝 What Drives Me:

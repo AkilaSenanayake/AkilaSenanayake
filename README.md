@@ -6,20 +6,20 @@
 
 # ✨ About Me
 
-Hi! I'm Akila Senanayake, a **Software Engineering undergraduate** at the Informatics Institute of Technology (IIT), affiliated with the **University of Westminster**.
+Hi! I'm Akila Senanayake,  **Software Tester, and a Builder of Better User Experiences.**. Software engineering undergraduate at Informatics Institute of Technology, School of Computing, affiliated with the University of Westminster.
 
 
 # 📝 What Drives Me:
 
-I am driven by a desire to solve real-world problems through technology. My experiences in software engineering and social media consulting have provided me with the versatility to approach challenges creatively and effectively.
+I am driven by a desire to solve real-world problems through technology. My experiences in software engineering and social media consulting have provided me with the versatility to approach challenges creatively and effectively. Currently diving deep into the world of software testing, with a sharp eye for detail and a passion for making sure things just work as they should. From writing test cases to running manual and automated tests using tools like Selenium, etc. I thrive on uncovering issues before users do.
+My approach blends logic, curiosity, and user empathy always asking, "What could go wrong, and how can I fix it before it does?".
 
+I've tested both functionality and user experience, ensuring responsive, accurate, and accessible features across devices. I've also contributed to a variety of applications, from sustainability-focused websites to Python-based games and finance tools.
 
+I'm a person who consistently active with LinkedIn to share my work, ideas, and progress in the field.
 
-## 💡 Key Strengths:
-
-... (Not added yet!)
-
-<!-- You can add more sections below -->
+Toolkit includes programming languages: Java, Python, JavaScript, Frameworks/Tools: Next.js, MySQL, MongoDB, Git and Testing knowledge about STLC, SDLC, Agile, SQA, QA methodology.
+Also Certified in QA Testing (University of Moratuwa & LinkedIn Learning).
 
 ---
 # 🛠️ Tech Stack

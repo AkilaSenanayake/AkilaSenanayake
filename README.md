@@ -11,10 +11,12 @@ Hi! I'm Akila Senanayake,  **Software Tester, and a Builder of Better User Exper
 
 # 📝 What Drives Me:
 
-Desire to solve real-world problems through technology. My experiences in software engineering and social media consulting have provided me with the versatility to approach challenges creatively and effectively. 
+Desire to solve real-world problems through technology. My experiences in software engineering and social media consulting have provided me with the versatility to approach challenges creatively and effectively.
+
 
 Currently diving deep into the world of software testing, with a sharp eye for detail and a passion for making sure things just work as they should. 
-From writing test cases to running manual and automated tests using tools like Selenium, etc. I thrive on uncovering issues before users do. (Follow me on my site for more!)
+From writing test cases to running manual and automated tests using tools like Selenium, etc. I thrive on uncovering issues before users do. (Follow me on my site for more!). 
+
 ---
 # 🛠️ Tech Stack
 

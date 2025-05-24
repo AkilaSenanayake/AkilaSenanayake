@@ -17,7 +17,7 @@ Desire to solve real-world problems through technology. My experiences in softwa
 Currently diving deep into the world of software testing, with a sharp eye for detail and a passion for making sure things just work as they should. 
 From writing test cases to running manual and automated tests using tools like Selenium, etc. I thrive on uncovering issues before users do. 
 
-(Follow me on my site for more!). 
+(Follow me on my site for more!) 
 
 ---
 # 🛠️ Tech Stack

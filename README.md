@@ -34,14 +34,15 @@ From writing test cases to running manual and automated tests using tools like S
 ![React](https://img.shields.io/badge/REACT-61DAFB?style=for-the-badge&logo=react&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MYSQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
 
+## 🧪 Testing, automation & Project Management:
+![Selenium](https://img.shields.io/badge/SELENIUM-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
+![Jira](https://img.shields.io/badge/JIRA-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+
 ## 🔧 Other Tools and Skills:
 ![Git](https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_CODE-007ACC?style=for-the-badge&logo=visual-studio-code)
 ![Figma](https://img.shields.io/badge/FIGMA-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
-## 🧪 Testing, automation & Project Management:
-![Selenium](https://img.shields.io/badge/SELENIUM-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
-![Jira](https://img.shields.io/badge/JIRA-0052CC?style=for-the-badge&logo=jira&logoColor=white)
 
 ---
 ## 📊 GitHub Stats

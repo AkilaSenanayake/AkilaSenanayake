@@ -36,7 +36,9 @@ From writing test cases to running manual and automated tests using tools like S
 
 ## 🧪 Testing, automation & Project Management:
 ![Selenium](https://img.shields.io/badge/SELENIUM-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
-![Jira](https://img.shields.io/badge/JIRA-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+![Playwright](https://img.shields.io/badge/PLAYWRIGHT-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
+![JMeter](https://img.shields.io/badge/JMETER-D22128?style=for-the-badge&logo=apachejmeter&logoColor=white)
+![ClickUp](https://img.shields.io/badge/CLICKUP-7B68EE?style=for-the-badge&logo=clickup&logoColor=white)
 
 ## 🔧 Other Tools and Skills:
 ![Git](https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=git&logoColor=white)

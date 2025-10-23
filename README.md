@@ -11,8 +11,6 @@
 Currently diving deep into the world of software automations, with a sharp eye for detail and a passion for making sure things just work as they should. 
 I thrive on uncovering issues before users do. 
 
-(Follow me on my site for more!) 
-
 ---
 # 🛠️ Tech Stack
 
@@ -33,11 +31,12 @@ I thrive on uncovering issues before users do.
 ![TestNG](https://img.shields.io/badge/TESTNG-FF8C00?style=for-the-badge&logo=testng&logoColor=white)
 ![Postman](https://img.shields.io/badge/POSTMAN-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![JMeter](https://img.shields.io/badge/JMETER-D22128?style=for-the-badge&logo=apachejmeter&logoColor=white)
-![ClickUp](https://img.shields.io/badge/CLICKUP-7B68EE?style=for-the-badge&logo=clickup&logoColor=white)
+![CI/CD](https://img.shields.io/badge/CI%2FCD-0A66C2?style=for-the-badge&logo=azuredevops&logoColor=white)
 
 ## 🔧 Other Tools and Skills:
 ![Git](https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Figma](https://img.shields.io/badge/FIGMA-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![ClickUp](https://img.shields.io/badge/CLICKUP-7B68EE?style=for-the-badge&logo=clickup&logoColor=white)
 
 
 ---

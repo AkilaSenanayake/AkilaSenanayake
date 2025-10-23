@@ -24,11 +24,14 @@ I thrive on uncovering issues before users do.
 
 ## 🚀 Frameworks, Tools, and Platforms:
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
-![React](https://img.shields.io/badge/REACT-61DAFB?style=for-the-badge&logo=react&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MYSQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MONGODB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
 ## 🧪 Testing, automation & Project Management:
 ![Selenium](https://img.shields.io/badge/SELENIUM-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
+![Appium](https://img.shields.io/badge/APPIUM-472A91?style=for-the-badge&logo=appium&logoColor=white)
+![TestNG](https://img.shields.io/badge/TESTNG-FF8C00?style=for-the-badge&logo=testng&logoColor=white)
+![Postman](https://img.shields.io/badge/POSTMAN-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![JMeter](https://img.shields.io/badge/JMETER-D22128?style=for-the-badge&logo=apachejmeter&logoColor=white)
 ![ClickUp](https://img.shields.io/badge/CLICKUP-7B68EE?style=for-the-badge&logo=clickup&logoColor=white)
 
